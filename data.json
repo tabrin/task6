@@ -1,0 +1,16 @@
+[
+    {
+        "airPortCode":1,
+        "name":"Tabrin",
+        "country":"India",
+        "state":"Karnataka",
+        "city":"Ramanagara"
+    },
+    {
+        "airPortCode":2,
+        "name":"Hoorain",
+        "country":"India",
+        "state":"Karnataka",
+        "city":"Bangalure"
+    }
+]
